@@ -1,0 +1,20 @@
+@media (max-width:600px){
+  .products{
+    display: inherit;
+    height: auto;
+    max-height: none;
+  }
+
+  .products{
+    margin-top:                                                     
+  }
+
+  main_section{
+    padding: 45;
+  }
+  .beneficios , .menciones{
+    display: inherit;
+  }
+
+  /* en product y group comentar max height */
+}
